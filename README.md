@@ -5,11 +5,14 @@ Hashbin is an application that allows users to calculate the hash of a file and 
 ## To install Hashbin, follow these steps:
 
 Clone the Hashbin repository to your system:
+
 > git clone https://github.com/aratan/hashbin.git
 Navigate to the project directory:
 > cd hashbin
+
 Build the application:
 > go build
+
 Run the application:
 > ./hashbin
 
